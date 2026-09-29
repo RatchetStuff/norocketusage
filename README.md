@@ -1,7 +1,7 @@
-<h1 align="left">
-<img align="center" width="56" alt="No Rocket Usage Icon" src="https://github.com/RatchetStuff/NoRocketUsage/blob/main/icon.png"> No Rocket Usage
-</h1>
+<div align="center">
+<h1>No Rocket Usage</h1>
 Rocket flying is annoying! (and unfair, too.)
+</div>
 
 ## Highlights
 
